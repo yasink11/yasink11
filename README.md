@@ -11,5 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about HTML,CSS,JavaScript,C#,SQL
 - 📫 How to reach me: yasinkaracam40@gmail.com
-###Connect with me:
+##
+Connect with me:
 https://www.linkedin.com/in/yasin-karacam/
