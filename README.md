@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on BTYÖN Technology
 - 🌱 I’m currently learning React,Angular and MVC
 - 👯 My position Software Architect
