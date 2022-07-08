@@ -8,4 +8,3 @@ Here are some ideas to get you started:
 - 👯 My position Software Architect
 - 💬 Ask me about HTML,CSS,JavaScript,C#,SQL
 - 📫 How to reach me: yasinkaracam40@gmail.com
-#Profile View
