@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Yasin</h1>
 <h3 align="center">Jr. Software Developer| Software Architect</h3>
 
