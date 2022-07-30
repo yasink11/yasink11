@@ -5,9 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yasink11" alt="yasink11" /></a> </p>
 
-- 🔭 I’m currently working on BTYÖN Technology
-- 👯 My position Software Architect
-- 💬 Ask me about HTML,CSS,JavaScript,Angular,C#,SQL
+- 💬 Ask me about HTML,CSS,JavaScript,Angular,React,C#,SQL
+
 - 📫 How to reach me: yasinkaracam40@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
