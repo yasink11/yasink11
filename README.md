@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yasink11" alt="yasink11" /></a> </p>
 
-- 💬 Ask me about HTML,CSS,JavaScript,Angular,React,C#,SQL
+
 
 - 📫 How to reach me: yasinkaracam40@gmail.com
 
