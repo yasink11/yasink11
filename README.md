@@ -9,7 +9,7 @@
   
 <table><tr><td valign="top" width="50%">
 
-- ###### 🔭 I’m currently working on  JavaScript, TypeScript and Angular.
+- ###### 🔭 I’m currently working on  JavaScript, TypeScript,Angular, C#, .Net and Domain Driven Desing.
 
 
  
