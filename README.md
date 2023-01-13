@@ -72,16 +72,3 @@
 
 
 
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-
-<p align="center">
-   <img src="https://github.com/timoteobentes/timoteobentes/blob/output/github-contribution-grid-snake.svg" alt="animated" />
-</p>
