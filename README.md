@@ -29,10 +29,13 @@
 </td></tr></table>  
 <br/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yasink11" alt="yasink11" /></a> </p>
-<br/>
-<p><img align="start" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasink11&show_icons=true&locale=en&layout=compact" alt="yasink11" /></p>
-<br/>  
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yasink11&show_icons=true&locale=en" alt="yasink11" width="300" />
+</p>
+
+
+
 
 
 
