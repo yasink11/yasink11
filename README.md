@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" height="200" width="400" src="giphy.gif">
 
-- 📙 I'm a passionate and self-learning **Full Stack developer**
+- 📙 I'm  **Full Stack developer**
 
 - 🎓 I graduated from **Düzce Üniversitesi**, **Management Information Systems** deparment
 
