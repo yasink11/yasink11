@@ -3,11 +3,11 @@
 
 <img align="right" alt="Coding" height="200" width="400" src="giphy.gif">
 
-- 📙 I'm  **Full Stack developer**
+- 📙Empowering Digital Solutions as a ***Full Stack Developer*** 🌐
 
-- 🎓 I graduated from **Düzce Üniversitesi**, **Management Information Systems** deparment
+- 🎓 I graduated from the ***Management Information Systems*** department at Düzce University.
 
-- 🌱 I’m currently learning **.NET, Javascript, Typescript**
+- 🚀 Currently actively developing with ***.Net , Javascript and Angular*** technologies 🌐
 
 - 📫 Reach me at **yasinkaracam40@gmail.com**
 
