@@ -6,9 +6,8 @@
 - 📙Empowering Digital Solutions as a ***Full Stack Developer*** 🌐
 
 - 🎓 I graduated from the ***Management Information Systems*** department at Düzce University.
-
-- 🚀 Currently actively developing with ***.Net , Javascript and Angular*** technologies 🌐
-
+- 🚀 Currently actively developing with ***.Net , Javascript and Angular*** technologies 
+- 🌐 I’m currently working at **Galata Transport and Trade**
 - 📫 Reach me at **yasinkaracam40@gmail.com**
 
 ## 🔗 &nbsp;Connect With Me
