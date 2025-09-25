@@ -7,7 +7,7 @@
 
 - 🎓 I graduated from the ***Management Information Systems*** department at Düzce University.
 - 🚀 Currently actively developing with ***.Net , Javascript and Angular*** technologies 
-[- 🌐 I’m currently working at **Deka Technology**](url)
+- 🌐 I’m currently working at ****
 - 📫 Reach me at **yasinkaracam40@gmail.com**
 
 ## 🔗 &nbsp;Connect With Me
