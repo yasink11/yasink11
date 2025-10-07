@@ -7,7 +7,7 @@
 
 - 🎓 I graduated from the ***Management Information Systems*** department at Düzce University.
 - 🚀 Currently actively developing with ***.Net , Javascript and Angular*** technologies 
-- 🌐 I’m currently working at ****
+- 🌐 I’m currently working at PayCo Elektronik Para ve Ödeme Hizmetleri A.Ş **
 - 📫 Reach me at **yasinkaracam40@gmail.com**
 
 ## 🔗 &nbsp;Connect With Me
